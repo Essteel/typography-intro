@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Poppins:ital,wght@0,300;0,700;1,300&display=swap');
+
+h1 {
+    color: red;
+    font-family: 'Aboreto', sans-serif;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+p strong {
+    font-size: 1.5rem;
+}
+
